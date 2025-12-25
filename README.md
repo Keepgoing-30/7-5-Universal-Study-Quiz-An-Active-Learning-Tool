@@ -32,7 +32,8 @@
 
   
 🛠 Installation & Usage
-To use the timeout feature for your study sessions, install the required library by copying the following code to VSCode's Terminal: pip install func_timeout
+
+   - To use the timeout feature for your study sessions, install the required library by copying the following code to VSCode's Terminal: pip install func_timeout
 
 
 Developer Note: Designed as a tool for students at Ensign College to build "muscle memory" in programming and academic recall.
